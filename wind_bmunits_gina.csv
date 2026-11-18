@@ -1,0 +1,320 @@
+elexonBmUnit,nationalGridBmUnit,bmUnitName,leadPartyName,generationCapacity,gspGroupId,gspGroupName,bmUnitType
+T_ABRBO-1,ABRBO-1,ABRBO-1,Aberdeen Offshore Wind Farm,99.000,,,T
+E_ABRTW-1,ABRTW-1,Auchrobert Wind Farm,Npower Commercial Gas Limited,36.000,_N,South Scotland,E
+C__PSMAR001,ACHLW-1,C__PSMAR001-AAA-ACH-183,Smartestenergy Limited,11.282,_P,North Scotland,S
+T_ACHRW-1,ACHRW-1,AChruach Wind Farm,Mobius Renewables Gen. (GB2,42.600,,,T
+,ACHYW-1,,,,,,
+T_AFTOW-1,AFTOW-1,Afton Wind Farm,Afton Wind Farm Limited,50.000,,,T
+2__BLOND003,AG-BEDF03,EDFE Aggregate E Mids 03,EDF Energy Customers Limited,20.000,_B,East Midlands,S
+,AG-PEPG01,,,,,,
+2__PSMAR001,AG-PSMA01,2__PSMAR001,Smartestenergy Limited,50.000,_P,NORTH of SCOTLAND GSP,S
+E_AIRSW-1,AIRSW-1,Airies,ENGIE Power Limited,38.000,_N,South Scotland,E
+,AKGLW-1,,,,,,
+T_AKGLW-2,AKGLW-2,AIKENGALL II,Aikengall 2 CWCL,63.840,,,T
+T_AKGLW-3,AKGLW-3,AIKENGALL2A-W,AIK2A Sustainable Energy Ltd,163.400,,,T
+T_ANSUW-1,ANSUW-1,An Suidhe 1,Statkraft Markets Gmbh,19.360,,,T
+T_ARCHW-1,ARCHW-1,Arecleoch,SP Renewables (UK) Limited,114.000,,,T
+E_ASHWW-1,ASHWW-1,Andershaw Wind Farm,Statkraft Markets Gmbh,35.000,_N,South Scotland,E
+E_ASLVW-1,ASLVW-1,Assel Valley Wind Farm,Npower Commercial Gas Limited,26.000,_N,South Scotland,E
+E_BABAW-1,BABAW-1,Baillie Wind Farm,Statkraft Markets Gmbh,52.500,_P,North Scotland,E
+T_BDCHW-1,BDCHW-1,Bad a Cheo Wind Farm,RWE Generation UK plc,27.000,,,T
+T_BEATO-1,BEATO-1,Beatrice Offshore WF 1,Beatrice Offshore Windfarm Ltd,184.000,,,T
+T_BEATO-2,BEATO-2,Beatrice Offshore WF 2,Beatrice Offshore Windfarm Ltd,166.000,,,T
+T_BEATO-3,BEATO-3,Beatrice Offshore WF 3,Beatrice Offshore Windfarm Ltd,166.000,,,T
+T_BEATO-4,BEATO-4,Beatrice Offshore WF 4,Beatrice Offshore Windfarm Ltd,165.526,,,T
+T_BEINW-1,BEINW-1,Beinneun Wind farm,Beinneun Wind Farm Ltd,108.800,,,T
+T_BENBW-1,BENBW-1,Benbrack WF,Benbrack Wind Farm Limited,67.000,,,T
+,BENBW-2,,,,,,
+,BENBW-3,,,,,,
+E_BETHW-1,BETHW-1,BETHW-1,SP Renewables (UK) Limited,29.750,_P,North Scotland,E
+,BGLAW-1,,,,,,
+T_BHLAW-1,BHLAW-1,Bhlaraidh Windfarm 1,SSE Generation Ltd,108.112,,,T
+E_BLARW-1,BLARW-1,E_BLARW-1,Erova Energy Limited,35.000,_P,North Scotland,E
+T_BLKWW-1,BLKWW-1,Blackcraig Windfarm,Blackcraig Wind Farm Limited,56.216,,,T
+T_BLLA-1,BLLA-1,T_BLLA-1,SP Renewables (UK) Limited,118.000,,,T
+T_BLLA-2,BLLA-2,Black Law Windfarm Extension,SP Renewables (UK) Limited,69.000,,,T
+,BNAKW-1,,,,,,
+,BNKSB-1,,,,,,
+E_BNWKW-1,BNWKW-1,Burn of Whilk Windfarm,Eneco Energy Trade,22.500,_P,North Scotland,E
+,BOULW-1,,,,,,
+T_BOWLW-1,BOWLW-1,Barrow Offshore Wind,Barrow Offshore Wind Limited,90.000,,,T
+,BOYNW-1,,,,,,
+T_BRBEO-1,BRBEO-1,BURBO_EXTENSION,Burbo Extension Limited,257.700,,,T
+E_BRDUW-1,BRDUW-1,Braes of Doune,Erova Energy Limited,74.000,_P,North Scotland,E
+E_BRNLW-1,BRNLW-1,Brownieleys,ENGIE Power Limited,7.500,_P,North Scotland,E
+T_BROCW-1,BROCW-1,Broken Cross WF,Smartestenergy Limited,48.000,,,T
+E_BRYBW-1,BRYBW-1,Berry Burn Wind Farm,Statkraft Markets Gmbh,62.708,_P,North Scotland,E
+,BTUIW-1,,,,,,
+E_BTUIW-2,BTUIW-2,Beinn An Tuirc 2,SP Renewables (UK) Limited,43.700,_P,North Scotland,E
+E_BTUIW-3,BTUIW-3,Beinn an Tuirc III Windfarm,SP Renewables (UK) Limited,52.000,_P,North Scotland,E
+E_BURBO,BURBW-1,Burbo Offshore Wind,Orsted Burbo (UK) Limited,90.000,_D,Merseyside North Wales,E
+2__PSTAT001,CAIRW-2,STAT P2 North Scotland,Statkraft Markets Gmbh,42.000,_P,North Scotland,S
+2__PSMAE001,CAUSW-1,2__PSMAE001,Smartestenergy Limited,0.000,_P,North Scotland,S
+,CDWTW-1,,,,,,
+T_CGTHW-1,CGTHW-1,Corriegarth WF,Corriegarth Wind Energy LTD,69.000,,,T
+T_CLDCW-1,CLDCW-1,Clyde Central,Clyde Windfarm (Scotland) Ltd,200.000,,,T
+T_CLDNW-1,CLDNW-1,Clyde North,Clyde Windfarm (Scotland) Ltd,200.000,,,T
+E_CLDRW-1,CLDRW-1,CLDRW-1,Vattenfall Energy Trading,39.000,_P,North Scotland,E
+T_CLDSW-1,CLDSW-1,Clyde South,Clyde Windfarm (Scotland) Ltd,150.000,,,T
+E_CLFLW-1,CLFLW-1,Clachan Flats,SP Renewables (UK) Limited,15.000,_P,North Scotland,E
+2__PEDGE003,CMSTW-1,2__PEDGE003,Edgware Energy Limited,55.749,_P,North Scotland,S
+E_CMSTW-2,CMSTW-2,Camster II,Edgware Energy Limited,36.000,_P,North Scotland,E
+E_CNCLW-1,CNCLW-1,Coire Na Cloiche WF,Statkraft Markets Gmbh,30.520,_P,North Scotland,E
+,CORY-1,,,,,,
+T_COUWW-1,COUWW-1,Cour Wind Farm,Cour Wind farm (Scotland) Ltd,20.500,,,T
+,CRAGW-1,,,,,,
+T_CRDEW-1,CRDEW-1,Crossdykes WF-1,EDF Energy Customers Limited,24.000,,,T
+T_CRDEW-2,CRDEW-2,Crossdykes WF-2,EDF Energy Customers Limited,24.000,,,T
+T_CREAW-1,CREAW-1,Creag Riabhach Wind Farm,Creag Riabhach Wind Farm Ltd,93.000,,,T
+T_CRGHW-1,CRGHW-1,Carraig Gheal Wind Farm,Statkraft Markets Gmbh,46.000,,,T
+E_CRGTW-1,CRGTW-1,Craig 2 Wind Farm,British Gas Trading Ltd,4.700,_N,South Scotland,E
+,CRMHW-1,,,,,,
+T_CRMLW-1,CRMLW-1,Corriemoillie,EDF Energy Customers Limited,48.000,,,T
+,CRMNW-1,,,,,,
+,CRYRW-1,,,,,,
+T_CRYRW-2,CRYRW-2,Crystal Rig II Windfarm,Eneco Energy Trade,150.620,,,T
+T_CRYRW-3,CRYRW-3,Crystal Rig III,Eneco Energy Trade,13.800,,,T
+T_CRYRW-4,CRYRW-4,Crystal Rig IV Wind Farm,Erova Energy Limited,48.200,,,T
+T_CUMHW-1,CUMHW-1,Cumberhead wind energy limited,Uniper UK Limited,52.000,,,T
+T_CUMHW-2,CUMHW-2,T_CUMHW-2,CUMBERHEAD WEST WIND FARM LTD,126.000,,,T
+T_DALQW-1,DALQW-1,Dalquhandy  Wind Farm,Statkraft Markets Gmbh,42.846,,,T
+E_DALSW-1,DALSW-1,Dalswinton Windfarm,Mobius Renewables Gen. (GB),30.000,_N,South Scotland,E
+T_DBAWO-1,DBAWO-1,Dogger Bank A Offshore WF 1,Doggerbank OWF Project 1,302.400,,,T
+T_DBAWO-2,DBAWO-2,Dogger Bank A Offshore WF 2,Doggerbank OWF Project 1,304.000,,,T
+T_DBAWO-3,DBAWO-3,Dogger Bank A Offshore WF 3,Doggerbank OWF Project 1,302.800,,,T
+T_DBAWO-4,DBAWO-4,Dogger Bank A Offshore WF 4,Doggerbank OWF Project 1,152.600,,,T
+T_DBAWO-5,DBAWO-5,Dogger Bank A Offshore WF 5,Doggerbank OWF Project 1,138.200,,,T
+T_DBBWO-1,DBBWO-1,Dogger Bank B Offshore WF 1,Doggerbank OWF Project 2,302.400,,,T
+T_DBBWO-2,DBBWO-2,Dogger Bank B Offshore WF 2,Doggerbank OWF Project 2,304.400,,,T
+T_DBBWO-3,DBBWO-3,Dogger Bank B Offshore WF 3,Doggerbank OWF Project 2,302.300,,,T
+T_DBBWO-4,DBBWO-4,Dogger Bank B Offshore WF 4,Doggerbank OWF Project 2,152.200,,,T
+T_DBBWO-5,DBBWO-5,Dogger Bank B Offshore WF 5,Doggerbank OWF Project 2,138.700,,,T
+T_DDGNO-1,DDGNO-1,Dudgeon Generator BMU 1,Dudgeon Offshore Wind Ltd,108.000,,,T
+T_DDGNO-2,DDGNO-2,Dudgeon Generator BMU 2,Dudgeon Offshore Wind Ltd,90.000,,,T
+T_DDGNO-3,DDGNO-3,Dudgeon Generator BMU 3,Dudgeon Offshore Wind Ltd,102.000,,,T
+T_DDGNO-4,DDGNO-4,Dudgeon Generator BMU 4,Dudgeon Offshore Wind Ltd,102.000,,,T
+,DEEP-1,,,,,,
+,DEUCW-1,,,,,,
+T_DNLWW-1,DNLWW-1,Dunlaw Extension,SP Renewables (UK) Limited,29.750,,,T
+T_DOREW-1,DOREW-1,Dorenell Wind Farm One,Dorenell Windfarm Limited,114.000,,,T
+T_DOREW-2,DOREW-2,Dorenell Wind Farm Two,Dorenell Windfarm Limited,114.000,,,T
+T_DOUGW-1,DOUGW-1,T-DOUGW-1,Erova Energy Limited,45.000,,,T
+,DRDGW-1,,,,,,
+,DRFAB-1,,,,,,
+T_DRSLW-1,DRSLW-1,Dersalloch Windfarm,SP Renewables (UK) Limited,70.900,,,T
+,DUMMW-1,,,,,,
+T_DUNGW-1,DUNGW-1,Dunmglass Windfarm 1,Dunmaglass Wind Farm Limited,100.000,,,T
+T_DWEXW-1,DWEXW-1,Douglas West Extension,Douglas West Extension Ltd,65.510,,,T
+T_EAAO-1,EAAO-1,East Anglia One Offshore 1,East Anglia One Limited,358.000,,,T
+T_EAAO-2,EAAO-2,East Anglia One Offshore 2,East Anglia One Limited,367.000,,,T
+,EARBW-1,,,,,,
+T_EDINW-1,EDINW-1,Edinbane Windfarm,Vattenfall Wind Power Ltd,41.400,,,T
+,EDTRW-1,,,,,,
+T_ENHLW-1,ENHLW-1,Enoch Hill Wind Farm,RWE Generation UK plc,70.000,,,T
+T_EWHLW-1,EWHLW-1,Ewe Hill II Windfarm,SP Renewables (UK) Limited,38.000,,,T
+T_FARR-1,FAARW-1,Farr Unit 1,Smartestenergy Limited,92.000,,,T
+T_FARR-2,FAARW-2,Farr Unit 2,Smartestenergy Limited,92.000,,,T
+T_FALGW-1,FALGW-1,Fallago Rig Wind Farm,Fallago Rig Wind Farm Limited,144.000,,,T
+,FRBRW-1,,,,,,
+T_FSDLW-1,FSDLW-1,Freasdail Wind Farm,Freasdail Energy Limited,22.200,,,T
+,FUABW-1,,,,,,
+T_GANW-11,GAOFO-1,Galloper OSP 11,Galloper Offshore WindFarm Ltd,88.000,,,T
+T_GANW-22,GAOFO-2,Galloper OSP 22,Galloper Offshore WindFarm Ltd,385.820,,,T
+T_GANW-13,GAOFO-3,Galloper OSP 13,Galloper Offshore WindFarm Ltd,88.000,,,T
+T_GANW-24,GAOFO-4,Galloper OSP 24,Galloper Offshore WindFarm Ltd,88.000,,,T
+E_GDSTW-1,GDSTW-1,Gordonstown,Mobius Renewables Gen. (GB),13.289,_P,North Scotland,E
+E_GLCHW-1,GLCHW-1,Glenchamber,ENGIE Power Limited,27.440,_N,South Scotland,E
+T_GLNKW-1,GLNKW-1,GLEN KYLLACHY WINDFARM,EDF Energy Customers Limited,52.000,,,T
+E_GLOFW-1,GLOFW-1,Glens of Foudland,Glens of Foudland Ltd,26.700,_P,North Scotland,E
+,GLTCW-1,,,,,,
+T_GLWSW-1,GLWSW-1,Galawhistle Wind Farm,GALAWHISTLE WIND FARM,55.200,,,T
+T_GNAPW-1,GNAPW-1,Glen App Windfarm,SP Renewables (UK) Limited,22.000,,,T
+T_GNFSW-1,GNFSW-1,Gunfleet Sands 1,Gunfleet Sands Limited,108.000,,,T
+T_GNFSW-2,GNFSW-2,Gunfleet Sands 2,Gunfleet Sands II Limited,64.480,,,T
+T_GORDW-1,GORDW-1,Gordon Bush,SSE Generation Ltd,86.764,,,T
+T_GORDW-2,GORDW-2,Gordonbush WF Extension,SSE Generation Ltd,58.733,,,T
+T_GRGBW-1,GRGBW-1,Greater Gabbard Module 1,Greater Gabbard Offshore Winds,205.000,,,T
+T_GRGBW-2,GRGBW-2,Greater Gabbard Module 2,Greater Gabbard Offshore Winds,167.000,,,T
+T_GRGBW-3,GRGBW-3,Greater Gabbard Module 3,Greater Gabbard Offshore Winds,167.000,,,T
+E_GRGRW-1,GRGRW-1,Greengairs East WF-1,Evolve Energy Supply Limited,37.649,_N,South Scotland,E
+T_GRIFW-1,GRIFW-1,Griffin Wind Farm 1,Griffin Wind Farm Ltd,102.000,,,T
+T_GRIFW-2,GRIFW-2,Griffin Wind Farm 2,Griffin Wind Farm Ltd,104.000,,,T
+,GRKNW-1,,,,,,
+,GRUB-1,,,,,,
+,GRUB-2,,,,,,
+T_GYMR-15,GYMRO-15,GyM OSPE 15,Gwynt y Mor Offshore Wind Farm,148.000,,,T
+T_GYMR-17,GYMRO-17,GyM OSPE 17,Gwynt y Mor Offshore Wind Farm,148.000,,,T
+T_GYMR-26,GYMRO-26,GyM OSPW 26,Gwynt y Mor Offshore Wind Farm,148.000,,,T
+T_GYMR-28,GYMRO-28,GyM OSPW 28,Gwynt y Mor Offshore Wind Farm,148.000,,,T
+T_HADHW-1,HADHW-1,Hadyard Hill Wind Farm,SSE Renewables Wind Farms,130.000,,,T
+T_HAGHW-2,HAGHW-2,Hagshaw Repower 2,HAGSHAW HILL REPOWERING LTD,51.300,,,T
+T_HAHAW-1,HAHAW-1,Hagshaw Repower 1,HAGSHAW HILL REPOWERING LTD,30.258,,,T
+T_HALSW-1,HALSW-1,Halsary Windfarm,SP Renewables (UK) Limited,30.000,,,T
+,HAWFW-1,,,,,,
+E_HBHDW-1,HBHDW-1,HARBURNHEADWF,LDV Harburnhead Ltd,51.700,_N,South Scotland,E
+E_HLGLW-1,HLGLW-1,Hill of Glaschyle,ENGIE Power Limited,28.000,_P,North Scotland,E
+E_HLTWW-1,HLTWW-1,Hill of Towie,ScottishPower Energy Retail,48.000,_P,North Scotland,E
+T_HMGTO-1,HMGTO-1,Humber Offshore Wind Farm BMU1,RWE Renewables UK Humber Wind,108.000,,,T
+T_HMGTO-2,HMGTO-2,Humber Offshore Wind Farm BMU2,RWE Renewables UK Humber Wind,111.000,,,T
+T_HOWAO-1,HOWAO-1,HORNSEA_1A,Hornsea 1 Limited,400.000,,,T
+T_HOWAO-2,HOWAO-2,HORNSEA_1B,Hornsea 1 Limited,400.000,,,T
+T_HOWAO-3,HOWAO-3,HORNSEA_1C,Hornsea 1 Limited,400.000,,,T
+T_HOWBO-1,HOWBO-1,HORNSEA_WF_2A,Breesea Limited,440.000,,,T
+T_HOWBO-2,HOWBO-2,HORNSEA_WF_2B,Sonningmay Wind Limited,440.000,,,T
+T_HOWBO-3,HOWBO-3,HORNSEA_WF_2C,Soundmark Wind Limited,440.000,,,T
+,HOWCO-2,,,,,,
+E_HRHLW-1,HRHLW-1,Hare Hill Extension Windfarm,SP Renewables (UK) Limited,30.000,_N,South Scotland,E
+T_HRSTW-1,HRSTW-1,Harestanes,SP Renewables (UK) Limited,142.300,,,T
+E_HYWDW-1,HYWDW-1,Hywind Generator BMU1,HYWINDSC,30.000,_P,North Scotland,E
+,IEG-GRNL1,,,,,,
+,INAW-1,,,,,,
+T_INCWO-1,INCWO-1,T_INCWO-1,Inch CAPE Offshore Ltd,450.000,,,T
+T_INCWO-2,INCWO-2,T_INCWO-2,Inch CAPE Offshore Ltd,90.000,,,T
+T_INCWO-3,INCWO-3,T_INCWO-3,Inch CAPE Offshore Ltd,360.000,,,T
+T_INCWO-4,INCWO-4,T_INCWO-4,Inch CAPE Offshore Ltd,180.000,,,T
+,INNDW-1,,,,,,
+,IVG-VKL1,,,,,,
+T_KENNW-1,KENNW-1,Kennoxhead Wind Farm,Kennoxhead Wind Farm Limited,60.000,,,T
+E_KHLLW-1,KHLLW-1,Kirk Hill WF,Unify Energy Limited,18.800,_N,South Scotland,E
+T_KILBW-1,KILBW-1,KILBW,Kilbraur Wind Energy Ltd,68.510,,,T
+,KILNS-1,,,,,,
+E_KINCW-1,KINCW-1,Kincardine Offshore Windfarm,Statkraft Markets Gmbh,49.600,_P,North Scotland,E
+,KLDMW-1,,,,,,
+T_KLGLW-1,KLGLW-1,Kilgallioch Windfarm,SP Renewables (UK) Limited,228.000,,,T
+T_KLGLW-2,KLGLW-2,T_KLGLW-2,SP Renewables (UK) Limited,225.000,,,T
+T_KPMRW-1,KPMRW-1,KYPE MUIR WIND FARM,KYPE MUIR WIND FARM LIMITED,89.000,,,T
+T_KTHLW-1,KTHLW-1,KEITH HILL WINDFARM,Statkraft Markets Gmbh,4.540,,,T
+T_KYPEW-1,KYPEW-1,KYPE MUIR EXT WIND FARM,Kype Extension Wind Farm Ltd,67.000,,,T
+T_LARYW-1,LARYO-1,London Array BMU1,London Array Limited,171.000,,,T
+T_LARYW-2,LARYO-2,London Array BMU2,London Array Limited,171.000,,,T
+T_LARYW-3,LARYO-3,London Array BMU3,London Array Limited,171.000,,,T
+T_LARYW-4,LARYO-4,London Array BMU4,London Array Limited,191.099,,,T
+T_LCLTW-1,LCLTW-1,Lochluichart Windfarm,Eneco Energy Trade,69.000,,,T
+,LGPKW-1,,,,,,
+T_LIMKW-1,LIMKW-1,Limekiln Wind Farm,Limekiln Extension Ltd,106.000,,,T
+T_LNCSW-1,LNCSO-1,Lincs wind farm offshore BMU1,Lincs Wind Farm Ltd,150.000,,,T
+T_LNCSW-2,LNCSO-2,Lincs wind farm offshore BMU2,Lincs Wind Farm Ltd,150.000,,,T
+,LYNNW-1,,,,,,
+,MARK-2,,,,,,
+2__PSTAT002,MDHLW-1,STAT P3 North Scotland,Statkraft Markets Gmbh,76.000,_P,North Scotland,S
+T_MIDMW-1,MIDMW-1,MIDDLE MUIR WIND FARM,MIDDLE MUIR WIND FARM LIMITED,51.000,,,T
+T_MILWW-1,MILWW-1,MILWW,Millennium Wind Energy Ltd,65.000,,,T
+E_MINSW-1,MINSW-1,Minsca Wind Farm,Mobius Renewables Gen. (GB),38.123,_N,South Scotland,E
+T_MKHLW-1,MKHLW-1,Mark Hill,SP Renewables (UK) Limited,53.000,,,T
+,MLRGW-1,,,,,,
+T_MOWEO-1,MOWEO-1,Moray East OWF1,Moray Offshore Windfarm East L,300.000,,,T
+T_MOWEO-2,MOWEO-2,Moray East OWF2,Moray Offshore Windfarm East L,300.000,,,T
+T_MOWEO-3,MOWEO-3,Moray East OWF3,Moray Offshore Windfarm East L,300.000,,,T
+T_MOWWO-1,MOWWO-1,Moray West OWF1,Moray Offshore Windfarm (West),215.000,,,T
+T_MOWWO-2,MOWWO-2,Moray West OWF2,Moray Offshore Windfarm (West),215.000,,,T
+T_MOWWO-3,MOWWO-3,Moray West OWF3,Moray Offshore Windfarm (West),143.000,,,T
+T_MOWWO-4,MOWWO-4,Moray West OWF4,Moray Offshore Windfarm (West),287.000,,,T
+E_MOYEW-1,MOYEW-1,Moy Windfarm,Eneco Energy Trade,60.000,_P,North Scotland,E
+T_MYGPW-1,MYGPW-1,Minnygap Wind Farm,Minnygap Energy Limited,25.000,,,T
+T_NNGAO-1,NNGAO-1,Neart Na Gaiothe WF 1,Neart Na Gaoithe Offshore Wind,224.000,,,T
+T_NNGAO-2,NNGAO-2,Neart Na Gaiothe WF 2,Neart Na Gaoithe Offshore Wind,224.000,,,T
+2__NNATP001,NNPW01,2__NNATP001,Npower Commercial Gas Limited,50.000,_N,SOUTH of SCOTLAND GSP,S
+T_NOKYW-1,NOKYW-1,North Kyle Wind Farm-1,North Kyle Wind farm Ltd,106.000,,,T
+T_NOKYW-2,NOKYW-2,North Kyle Wind Farm-2,North Kyle Wind farm Ltd,106.000,,,T
+,NORHW-1,,,,,,
+,NOVAW-1,,,,,,
+,NOVAW-2,,,,,,
+,NSQYT-1,,,,,,
+T_OMNDW-1,OMNDO-1,Ormonde Energy Limited 1,Ormonde Energy Ltd,150.760,,,T
+2__PENEC002,PAUHW-1,Pauls Hill Windfarm,Eneco Energy Trade,70.167,_P,North Scotland,S
+T_PGBIW-1,PGBIW-1,Pogbie WF,EDF Energy Customers Limited,10.000,,,T
+E_PIBUW-1,PIBUW-1,Pines Burn Wind Farm,Npower Commercial Gas Limited,36.000,_N,South Scotland,E
+T_PLOEW-1,PLOEW-1,PENCLOE WIND 1,PENCLOE WIND ENERGY LIMITED,81.000,,,T
+T_PNYCW-1,PNYCW-1,PNYCW-1 Export,Pen y Cymoedd Wind Farm LTD,228.000,,,T
+,PROG-1,,,,,,
+T_PRSTW-1,PRSTW-1,Priestgill WF,Priestgill Wind Farm,43.630,,,T
+,PTLDW-1,,,,,,
+,RANN-1,,,,,,
+,RANN-2,,,,,,
+,RANN-3,,,,,,
+T_RCBKO-1,RCBKO-1,RACE_BANK_Z01,Race Bank Wind Farm Ltd,284.000,,,T
+T_RCBKO-2,RCBKO-2,RACE_BANK_Z02,Race Bank Wind Farm Ltd,290.000,,,T
+,REDGT-1,,,,,,
+,RHYFW-1,,,,,,
+T_RMPNO-1,RMPNO-1,Rampion Offshore Wind BMU 1,Rampion Offshore Windfarm Ltd,200.100,,,T
+T_RMPNO-2,RMPNO-2,Rampion Offshore Wind BMU 2,Rampion Offshore Windfarm Ltd,200.100,,,T
+2__PENEC001,ROTHW-1,Rothes Windfarm,Eneco Energy Trade,54.501,_P,North Scotland,S
+T_RREW-1,RREW-1,T_RREW-1,RWE Renewables UK Robin Rigg,114.293,,,T
+T_RRWW-1,RRWW-1,T_RRWW-1,RWE Renewables UK Robin Rigg,90.838,,,T
+2__PEDGE004,RSHLW-1,2__PEDGE004,Edgware Energy Limited,27.376,_P,North Scotland,S
+T_SAKNW-1,SAKNW-1,Sandy Knowe Wind Farm,Sandy Knowe Wind Farm Ltd,87.000,,,T
+,SANDW-1,,,,,,
+T_SANQW-1,SANQW-1,SANQUHAR,SANQUHAR CWCL,32.080,,,T
+T_SANQW-2,SANQW-2,Sanquhar Wind Farm Unit 1,SANQUHAR II COMMUNITY WIND CO,83.400,,,T
+T_SANQW-3,SANQW-3,Sanquhar Wind Farm Unit 2,SANQUHAR II COMMUNITY WIND CO,186.000,,,T
+,SFIL-1,,,,,,
+T_SGRWO-1,SGRWO-1,Seagreen1 Offshore WF 1,Seagreen Wind Energy Limited,358.000,,,T
+T_SGRWO-2,SGRWO-2,Seagreen1 Offshore WF 2,Seagreen Wind Energy Limited,220.000,,,T
+T_SGRWO-3,SGRWO-3,Seagreen1 Offshore WF 3,Seagreen Wind Energy Limited,374.618,,,T
+T_SGRWO-4,SGRWO-4,Seagreen1 Offshore WF 4,Seagreen Wind Energy Limited,140.000,,,T
+T_SGRWO-5,SGRWO-5,Seagreen1 Offshore WF 5,Seagreen Wind Energy Limited,300.000,,,T
+T_SGRWO-6,SGRWO-6,Seagreen1 Offshore WF 6,Seagreen Wind Energy Limited,380.000,,,T
+,SHIN-1,,,,,,
+,SHIN-2,,,,,,
+T_SHRSW-1,SHRSO-1,Sheringham Shoal Unit 1,Scira Offshore Energy Limited,158.400,,,T
+T_SHRSW-2,SHRSO-2,Sheringham Shoal Unit 2,Scira Offshore Energy Limited,158.400,,,T
+,SIMEC-1,,,,,,
+,SOFOW-11,,,,,,
+,SOFOW-12,,,,,,
+,SOFOW-21,,,,,,
+,SOFOW-22,,,,,,
+T_SOFOW-11,SOFWO-11,Sofia Offshore Wind BMU 1,Sofia Offshore Wind Farm Ltd,457.000,,,T
+T_SOFOW-12,SOFWO-12,Sofia Offshore Wind BMU 2,Sofia Offshore Wind Farm Ltd,457.000,,,T
+T_SOFOW-21,SOFWO-21,Sofia Offshore Wind BMU 3,Sofia Offshore Wind Farm Ltd,457.000,,,T
+T_SOFOW-22,SOFWO-22,Sofia Offshore Wind BMU 4,Sofia Offshore Wind Farm Ltd,457.000,,,T
+T_SOKYW-1,SOKYW-1,South Kyle Wind Farm,South Kyle Wind Farm Limited,426.916,,,T
+,SPEY-1,,,,,,
+,STCR-1,,,,,,
+T_STLGW-1,STLGW-1,Stronelairg Windfarm 1,Stronelairg Windfarm Limited,108.000,,,T
+T_STLGW-2,STLGW-2,Stronelairg Windfarm 2,Stronelairg Windfarm Limited,108.000,,,T
+T_STLGW-3,STLGW-3,Stronelairg Windfarm 3,Stronelairg Windfarm Limited,108.000,,,T
+,STPSW-1,,,,,,
+E_STRHW-1,STRHW-1,Strathrory Wind Farm,ENGIE Power Limited,36.667,_P,North Scotland,E
+T_STRNW-1,STRNW-1,Strathy North Wind Farm 1,Strathy Wind Farm Limited,70.000,,,T
+E_SWBKW-1,SWBKW-1,Solwaybank WF,Vattenfall Energy Trading,34.000,_N,South Scotland,E
+,T_IRNAB-1,,,,,,
+2__PSMAE003,TACHW-1,CE Tacher Turbines Limited,Smartestenergy Limited,12.900,_P,North Scotland,S
+,TANGW-1,,,,,,
+T_TDBNW-1,TDBNW-1,Toddleburn,SSE Generation Ltd,31.600,,,T
+T_THNTO-1,THNTO-1,Thanet Offshore Wind Limited 1,Thanet Offshore Wind Limited,287.699,,,T
+T_THNTO-2,THNTO-2,Thanet Offshore Wind Limited 2,Thanet Offshore Wind Limited,230.159,,,T
+T_TKNEW-1,TKNEW-1,Triton Knoll OSP East 1,Triton Knoll Offshore Wind,412.000,,,T
+T_TKNWW-1,TKNWW-1,Triton Knoll OSP west 1,Triton Knoll Offshore Wind,412.000,,,T
+E_TLYMW-1,TLYMW-1,Tullymurdoch Wind Farm,EDF Energy Customers Limited,13.856,_P,North Scotland,E
+C__PSTAT011,TMNCW-1,C__PSTAT011-AAA-NAN-184,Statkraft Markets Gmbh,40.000,_P,North Scotland,S
+,TMWLW-1,,,,,,
+,TONG-1,,,,,,
+,TONG-2,,,,,,
+,TONG-3,,,,,,
+T_TRLGW-1,TRLGW-1,T_TRLGW-1,Smartestenergy Limited,18.742,,,T
+E_TULWW-1,TULWW-1,Tullo Windfarm,Eneco Energy Trade,17.000,_P,North Scotland,E
+E_TULWW-2,TULWW-2,Tullo Extension,Eneco Energy Trade,25.000,_P,North Scotland,E
+,TUMB-1,,,,,,
+,TUMB-2,,,,,,
+T_TWSHW-1,TWSHW-1,Twenty Shilling Wind Farm,Twentyshilling Limited,37.800,,,T
+T_VKNGW-1,VKNGW-1,Viking Energy Windfarm BMU-1,Viking Energy Wind Farm LLP,121.800,,,T
+T_VKNGW-2,VKNGW-2,Viking Energy Windfarm BMU-2,Viking Energy Wind Farm LLP,121.800,,,T
+T_VKNGW-3,VKNGW-3,Viking Energy Windfarm BMU-3,Viking Energy Wind Farm LLP,121.800,,,T
+T_VKNGW-4,VKNGW-4,Viking Energy Windfarm BMU-4,Viking Energy Wind Farm LLP,121.800,,,T
+T_WDNSO-1,WDNSO-1,West of Duddon Sands Offshore1,Morecambe Wind Limited,197.000,,,T
+T_WDNSO-2,WDNSO-2,West of Duddon Sands Offshore2,Morecambe Wind Limited,201.000,,,T
+T_WDRGW-1,WDRGW-1,Windy Rig Wind Farm,Windy Rig Wind Farm Limited,42.800,,,T
+,WETHW-1,,,,,,
+T_WHIHW-1,WHIHW-1,Whiteside Hill WF,Whiteside Hill,27.520,,,T
+T_WHILW-1,WHILW-1,T_WHILW-1,SP Renewables (UK) Limited,309.000,,,T
+T_WHILW-2,WHILW-2,Whitelee Extension,SP Renewables (UK) Limited,206.000,,,T
+,WINN-1,,,,,,
+T_WISTW-2,WISTW-2,Brockloch Rig 2 WF Exp A,BROCKLOCH RIG WINDFARM LTD,61.500,,,T
+,WLBRB-1,,,,,,
+T_WLNYO-2,WLNYO-2,WALNEY_2,Walney Offshore Windfarms Ltd,183.600,,,T
+T_WLNYO-3,WLNYO-3,WALNEY_3,Walney Extension Ltd,345.220,,,T
+T_WLNYO-4,WLNYO-4,WALNEY_4,Walney Extension Ltd,330.000,,,T
+T_WLNYO-4,WLNYO-4,WALNEY_4,Walney Extension Ltd,330.000,,,T
+T_WLNYW-1,WLNYW-1,WALNEY_1,Walney Offshore Windfarms Ltd,182.000,,,T
+,WTGRW-1,,,,,,
+T_WTMSO-1,WTMSO-1,WESTERMOST_ROUGH,Westermost Rough Limited,205.000,,,T
